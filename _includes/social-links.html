@@ -1,0 +1,23 @@
+<div class="offsite-links">
+
+    {% if site.instagram %}    
+    <a href="https://www.instagram.com/{{ site.instagram }}" class="circle" target="_blank">
+        <i class="icon-instagram" aria-hidden="true"></i>
+        <span class="screen-reader-text">Instagram</span>
+    </a>
+    {% endif %}
+
+    {% if site.twitter %}
+    <a href="https://twitter.com/{{ site.twitter }}" class="circle" target="_blank">
+        <i class="icon-twitter" aria-hidden="true"></i>
+        <span class="screen-reader-text">Twitter</span>
+    </a>
+    {% endif %}
+
+    {% if site.facebook %}
+    <a href="https://www.facebook.com/{{ site.facebook }}" class="circle" target="_blank">
+        <i class="icon-facebook" aria-hidden="true"></i>
+        <span class="screen-reader-text">Facebook</span>
+    </a>
+    {% endif %}    
+</div><!-- .offsite-links -->
