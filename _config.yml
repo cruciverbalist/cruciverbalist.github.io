@@ -4,7 +4,7 @@ description:
 meta_description: 
 greetings: 
 logo: 'assets/images/logoSquareYellowHang.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'favicon.ico'
 baseurl: 
 production_url: https://mariposalightfeather.com/
 disqus:
