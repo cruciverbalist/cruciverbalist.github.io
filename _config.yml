@@ -3,13 +3,13 @@ name: 'Mariposa Lightfeather'
 description: 
 meta_description: 
 greetings: 
-logo: 'assets/images/logoSquareYellowHang.png'
+logo: 'assets/images/butterfly-only.png'
 favicon: 'favicon.ico'
 baseurl: 
 production_url: https://mariposalightfeather.com/
 disqus:
 mailchimp_url: 
-cover_image: 'covers/bigLogoShort.png'
+cover_image: 'covers/logo-red-butterfly-big.png'
 # Add your GA Tracking Id
 ga_analytics: 'G-X9G6FBE2NE'
 
