@@ -120,7 +120,7 @@
 
 @media only screen and (max-width: 860px) {
 	.cover-image-wrapper .cover-content {
-		bottom: 10px;
+		bottom: 70px;
 	}
 	.post-list .post:before,
 	.post-header-wrap:before {
@@ -298,6 +298,10 @@
 	.cover {
 		height: 340px;
 	}
+	.cover-image-wrapper .cover-content {
+		bottom: 10px;
+	}
+
 
 }
 
